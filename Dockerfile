@@ -1,5 +1,5 @@
 #
-FROM python:2.7-alpine
+FROM python:3.5-alpine
 MAINTAINER https://github.com/muccg
 
 ARG ARG_DEVPI_VERSION
